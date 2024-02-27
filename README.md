@@ -14,8 +14,6 @@ Cel drugorzędny: zaproponuj mechanizm rozmytego dopasowania terminów uwzględn
 
 **Technologie/narzędzia:** PostgreSQL
 
-**Liczba osób w zespole:** 2
-
 # Opis proponowanego rozwiązania
 
 Projekt realizowany będzie w oparciu o narzędzie Postgresa do wyszukiwania tekstowego - Full Text Search (https://www.postgresql.org/docs/current/textsearch.html). 

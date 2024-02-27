@@ -1,0 +1,1 @@
+CREATE INDEX term_index ON terms USING gist(query);

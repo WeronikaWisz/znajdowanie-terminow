@@ -1,4 +1,4 @@
-# I2. Znajdowanie terminów
+# Znajdowanie terminów
 
 
 1. Dana jest baza danych terminów; jako termin rozumiana jest sekwencja wyrazów (łańcuch znaków zawierający wyrazy rozdzielone spacjami). Każdy termin ma opis. Należy założyć, że liczba terminów jest znacząca np. kilka tysięcy. Terminy mogą mieć wyraz wspólne np.: "Organizacja Wyzwolenia", "Narodowa Organizacja Wyzwolenia".
